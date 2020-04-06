@@ -33,9 +33,6 @@ Original article published by Gabriel S. Gonçalves with the title ["Urgent call
 
 
 
-## Treating Covid-19 patients with Hydroxychloroquine
-
-* 
 
 ## SARS-Cov-2 evolution and outbreak
 
